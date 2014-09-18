@@ -1,0 +1,5 @@
+{
+    "DEF_TARGET": "example.com",
+    "DEF_FOLDER": "~/public_html",
+    "DEF_PREFIX": "~username"
+}
