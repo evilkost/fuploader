@@ -5,11 +5,8 @@ and get correct links
 
 Dependencies
 ============
-system:
-- rsync
-
-python:
-- click
+  - **system**: ssh, rsync  
+  - **python**: click
 
 Install
 =======
